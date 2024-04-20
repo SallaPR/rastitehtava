@@ -1,4 +1,4 @@
-# rastitehtava
+# Rästitehtävä
 
 Car-taulun luomiseen käytetty koodi:
 
